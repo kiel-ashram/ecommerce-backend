@@ -14,6 +14,9 @@ This is the backend for an e-commerce site. It uses sequelize and mysql to creat
 To install necessary dependencies, run the following command:
 npm install, sequalize, mysql, dotenv
 
+## Here is a link to my demo
+https://watch.screencastify.com/v/elhayKLEB19sdJiGhXim
+
 ## Contributing
 Be my guest.
 
